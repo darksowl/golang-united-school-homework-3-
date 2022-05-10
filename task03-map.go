@@ -1,6 +1,6 @@
 package homework
-//import ("fmt"
-//		"sort")
+import (//"fmt"
+		"sort")
 func sortMapValues(input map[int]string) (result []string) {
 	//Place your code here
 	var ky = make([]int, len(input))
